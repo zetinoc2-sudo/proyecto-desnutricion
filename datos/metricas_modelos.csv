@@ -1,0 +1,7 @@
+objetivo,modelo,exactitud,precision_macro,recall_macro,f1_macro,f1_validacion_cruzada
+riesgo_nutricional,Regresión logística,0.7133,0.6375,0.671,0.6504,0.6678
+riesgo_nutricional,Random Forest,0.732,0.6775,0.6589,0.6666,0.6475
+riesgo_nutricional,XGBoost,0.7213,0.6528,0.6564,0.6542,0.6294
+inseguridad_alimentaria,Regresión logística,0.728,0.7139,0.7268,0.7191,0.723
+inseguridad_alimentaria,Random Forest,0.7133,0.7086,0.701,0.7038,0.6955
+inseguridad_alimentaria,XGBoost,0.6973,0.6844,0.6847,0.6844,0.6911
